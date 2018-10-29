@@ -2,13 +2,13 @@
 ## Piano GUI one octave
 
 <br>
-### Repo is under construction.
+## Repo is under construction.
 <br>
-### Instructions
+## Instructions
 Download and just ./run.sh
 
 <br>
-### Requirements
+## Requirements
  - tkinter
  - pygame
 <br>
