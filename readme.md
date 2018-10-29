@@ -1,17 +1,14 @@
 # PyPiano
 ## Piano GUI one octave
-
-<br>
 ## Repo is under construction.
-<br>
-## Instructions
-Download and just ./run.sh
 
-<br>
+## Instructions
+Download and just ./run.sh<br/>
+
 ## Requirements
  - tkinter
  - pygame
-<br>
-If you run Anaconda Distribution with python >3.6 just press 'y' in the instructions of run.sh file.
+
+If you run Anaconda Distribution with python >3.6 just press 'y' in the instructions of run.sh file.<br/>
 
 Enjoy >_ !
