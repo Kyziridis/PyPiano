@@ -9,6 +9,6 @@ Download and just ./run.sh<br/>
  - tkinter
  - pygame
 
-If you run Anaconda Distribution with python >3.6 just press 'y' in the instructions of run.sh file.<br/>
+If run.sh is not working, try to install manually the above python libraries.<br/>
 
 Enjoy >_ !
