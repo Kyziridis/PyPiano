@@ -6,6 +6,7 @@ echo "Please type your sudo_password where is needed";
 read -n1 -p "Some essential libraries will be installed, contiue? >_ [y/n]" answer
 if [ "$answer" = "y" ] 
 then
+	echo
 	echo "Provide Your Password"
 	sudo apt-get install python3-tk
 	sudo apt-get install -y python3-tk
