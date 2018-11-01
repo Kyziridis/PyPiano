@@ -1,4 +1,4 @@
-#from Tkinter import *  #for python2.7
+from Tkinter import *  #for python2.7
 from tkinter import * # for python > 3.4
 import pygame
 """ --__Midi0ke__--
